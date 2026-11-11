@@ -1,8 +1,8 @@
 # Gerry-the-intersting-creature
 
-I made a statue/sculpture of a wierd creature named Gerry
-This was made in fusion 360
-To make it I had to learn how to use the circular pattern tool because otherwise it would have taken forever to place all the teeth and petals on the flower. Other than that there were no problems. 
+I made a statue/sculpture of a wierd creature named Gerry<p>
+This was made in fusion 360<p>
+To make it I had to learn how to use the circular pattern tool because otherwise it would have taken forever to place all the teeth and petals on the flower. Other than that there were no problems. <p>
 This is a statue so if you want to use you just need to 3d print it!<p>
 
 This is the file on printables-
